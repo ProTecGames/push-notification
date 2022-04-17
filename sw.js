@@ -22,4 +22,3 @@ else {
     swPath = host + version + "/sw.js";
 }
 importScripts(swPath);
-
